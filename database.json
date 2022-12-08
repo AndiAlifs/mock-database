@@ -1,0 +1,64 @@
+{
+  "rekening": [
+    {
+      "id": 1,
+      "nama": "Budi",
+      "saldo": 1000000,
+      "norek": "1234567890"
+    },
+    {
+      "id": 2,
+      "nama": "Andi",
+      "saldo": 500000,
+      "norek": "0987654321"
+    },
+    {
+      "id": 3,
+      "nama": "Caca",
+      "saldo": 2000000,
+      "norek": "135792468"
+    },
+    {
+      "id": 4,
+      "nama": "Dedi",
+      "saldo": 3000000,
+      "norek": "246813579"
+    },
+    {
+      "id": 5,
+      "nama": "Euis",
+      "saldo": 4000000,
+      "norek": "357924680"
+    },
+    {
+      "id": 6,
+      "nama": "Fafa",
+      "saldo": 5000000,
+      "norek": "468035791"
+    },
+    {
+      "id": 7,
+      "nama": "Gaga",
+      "saldo": 6000000,
+      "norek": "579146802"
+    },
+    {
+      "id": 8,
+      "nama": "Haha",
+      "saldo": 7000000,
+      "norek": "680257913"
+    },
+    {
+      "id": 9,
+      "nama": "Icha",
+      "saldo": 8000000,
+      "norek": "791368024"
+    },
+    {
+      "nama": "JajaS",
+      "saldo": "9100012",
+      "norek": "802479135",
+      "id": 10
+    }
+  ]
+}
