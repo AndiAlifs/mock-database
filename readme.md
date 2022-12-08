@@ -1,7 +1,7 @@
 # Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
-- [json-server]
+- [json-server] (https://www.npmjs.com/package/json-server)
 
 # Running
 - `npm install json-server -g`
